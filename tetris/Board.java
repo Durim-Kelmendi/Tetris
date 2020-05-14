@@ -1,4 +1,4 @@
-package se.liu.ida.durke636.tdde30.tetris;
+package tetris;
 
 import java.util.ArrayList;
 import java.util.Arrays;
